@@ -13,7 +13,7 @@ The HIRO marker controls 3D models of a human head; a custom marker controls a 3
 
 ## How to use this AR WebApp
 
-1. Upload the contents of the repo to a web server and open the arhuman.html in your browser e.g.:  your.webserver.address/ARforMRI/arhuman.html (opening a webpage directly from the local drive won't work). You can also open a demo from https://yileying.github.io/projects/2018ARforMRI/demo/ (mind this may be outdated)
+1. Upload the contents of the repo to a web server and open the index.html in your browser e.g.:  your.webserver.address/ARforMRI/index.html (opening a webpage directly from the local drive won't work). You can also open a demo from https://yileying.github.io/projects/2018ARforMRI/demo/ (mind this may be outdated)
 2.  Allow the page to use camera
 3.  Point the camera to the marker(s), e.g. [HIRO](https://jeromeetienne.github.io/AR.js/data/images/HIRO.jpg) and [a custom marker](markers/custommarker.png)
 4.  Use the text input boxes on the top of the page to adjust the size / location / angle of the 3D models relative to the marker(s)
